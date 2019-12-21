@@ -1,5 +1,5 @@
 # TBOMP-UNLIMI 
-jAn open-source SMS/call bomber for Linux And Termux.
+An open-source SMS/call bomber for Linux And Termux.
 
 
 Note:
