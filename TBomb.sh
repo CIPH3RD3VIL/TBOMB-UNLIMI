@@ -11,7 +11,7 @@ echo .
 apt install figlet toilet python curl -y
 apt install python3-pip
 pip install -r requirements.txt
-echo This Script Was EDITED by nandydark
+echo This Script Was EDITED by Ciph3rD3vil
 echo Requirements Installed....
 echo Press Enter To Continue...
 read upd
@@ -23,7 +23,7 @@ clear
 echo -e "\e[1;31m"
 figlet Fuck this world with
 echo -e "\e[1;34m \e[1;32m"
-toilet -f mono12 -F border nandydark
+toilet -f mono12 -F border Ciph3rD3vil
 echo " "
 echo " "
 echo "Press 1 To  Start SMS Bomber "
