@@ -21,7 +21,7 @@ do
 rm *.xxx >/dev/null 2>&1
 clear
 echo -e "\e[1;31m"
-figlet Fuck this world with
+figlet Bomb With This World
 echo -e "\e[1;34m \e[1;32m"
 toilet -f mono12 -F border Ciph3rD3vil
 echo " "
@@ -49,7 +49,7 @@ clear
 echo -e "\e[1;31m"
 figlet TBomb
 echo -e "\e[1;34m Created By \e[1;32m"
-toilet -f mono12 -F border nandydark
+toilet -f mono12 -F border Ciph3rD3vil
 echo " "
 exit 0
 else
