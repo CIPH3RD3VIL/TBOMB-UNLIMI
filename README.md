@@ -1,4 +1,4 @@
-# TBOMP-UNLIMI 
+# TBOMB-UNLIMI 
 An open-source SMS/call bomber for Linux And Termux.
 
 
@@ -16,7 +16,7 @@ If output looks like Python 3 - Congrats, Python 3 is installed properly.
 
 Do not use this to harm others.
 This script is only for educational purposes or to prank.
-None of the developers/contributors are responsible for the misuse of TBOMP-UNLIM.
+None of the developers/contributors are responsible for the misuse of TBOMB-UNLIM.
 
 Features:
 Lots of integrated SMS/call APIs
@@ -38,7 +38,7 @@ To use the bomber type the following commands in Termux:
 
 pkg install git
 pkg install python
-git clone https://github.com/CIPH3RD3VIL/TBOMP-UNLIMI.git
+git clone https://github.com/CIPH3RD3VIL/TBOMB-UNLIMI.git
 cd TBOMB-UNLIM
 chmod +x TBOMB-UNLIM
 ./TBOMB-UNLIM
@@ -50,7 +50,7 @@ git installation methods are not universal and do differ between distributions, 
 To use the bomber type the following commands in Linux terminal:
 
 sudo apt install git
-git clone https://github.com/CIPH3RD3VIL/TBOMP-UNLIMI.git
+git clone https://github.com/CIPH3RD3VIL/TBOMB-UNLIMI.git
 cd TBOMB-UNLIM
 chmod +x TBOMB-UNLIM
 sudo bash TBOMB-UNLIM
@@ -67,7 +67,7 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/CIPH3RD3VIL/TBOMP-UNLIMI.git
+git clone https://github.com/CIPH3RD3VIL/TBOMB-UNLIMI.git
 cd TBOMB-UNLIM
 chmod +x TBOMB-UNLIM
 
