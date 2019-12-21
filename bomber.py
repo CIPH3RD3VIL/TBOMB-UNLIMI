@@ -556,7 +556,7 @@ if nm == 0:
     print("             Delay               : ", dl)
     print("==================================================================")
     print("              Use this for fun, not for revenge !!                ")
-    print("              This Bomber Was edited BY nandydark credits to owner@speedx !! ")
+    print("              This Bomber Was edited BY Ciph3rD3vil credits to owner@speedx !! ")
     print("==================================================================")
     input('\n\nPress CTRL+Z To STOP Bomber... \nPress Enter To Start Bomber...\n')
     os.system('rm *.xxx* > /dev/null 2>&1')
